@@ -1,0 +1,5 @@
+{
+  "compilerOptions": {
+    "baseUrl": "/Users/EM/.aliyun-serverless/lib/nodejs/node_modules"
+  }
+}
